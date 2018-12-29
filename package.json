@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Blink a led",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TMoechel/Rasp_Led.git"
+  },
   "scripts": {
     "test": "test"
   },
