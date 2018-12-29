@@ -1,0 +1,14 @@
+{
+  "name": "blinkled",
+  "version": "1.0.0",
+  "description": "Blink a led",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "led"
+  ],
+  "author": "t.moechel",
+  "license": "ISC"
+}
